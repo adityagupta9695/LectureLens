@@ -1,5 +1,4 @@
 # LectureLens
-# LectureLens
 
 **Turn hours of YouTube lectures into searchable, intelligent study material in minutes.**
 
